@@ -489,7 +489,9 @@ header .intro-section .buttons {
 -----------------------------------------*/
 
 .testimonials {
+    background: #FFFFFF;
     color: #0060AD;
+    padding-top: 110px; padding-bottom: 110px;
 }
 
 .testimonials .color-overlay {
