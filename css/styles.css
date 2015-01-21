@@ -468,11 +468,11 @@ header .intro-section .buttons {
 .app-brief .left-align p {
     display: block;
     float: none;
-    margin-top: 50px;
+    margin-top: 0px;
 }
 
 .app-brief .left-align .feature-list {
-    margin-top: 40px;
+    margin-top: 15px;
 }
 
 .app-brief .left-align .feature-list li {

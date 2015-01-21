@@ -11,3 +11,8 @@
 h1.intro {
 	margin-top: 0px;
 }
+
+.app-brief .left-align h3:first-of-type {
+    margin-top: 43px;
+	
+}
